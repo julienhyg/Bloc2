@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-06-28T11:13:25.507Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="71j4R-pSXCRD7PRoTyTs" version="21.5.0" type="device">
+  <diagram name="Page-1" id="Z_LQ6z9-4e3ammu03pyi">
+    <mxGraphModel dx="1274" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-1" value="Charte de projet" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#1e40af;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-2" value="Plan de projet" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#059669;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-3" value="Matrice de responsabilités (RACI)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#1e40af;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-4" value="Plan de gestion des risques" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#059669;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-5" value="Plan de gestion des parties prenantes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#1e40af;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-6" value="Plan de clôture" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#059669;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-7" value="Plan de tests" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#1e40af;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-8" value="Plan de déploiement" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#059669;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-9" value="Rapport d&#39;avancement" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#1e40af;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-10" value="Cahier de recettes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#059669;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-11" value="Rapport de réunion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#1e40af;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-12" value="Plan de communication" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#059669;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

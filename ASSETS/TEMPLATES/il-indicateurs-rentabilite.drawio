@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-07-09T11:53:59.267Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="F0o2rLC5RjhL7Pvqf-pN" version="21.5.1" type="device">
+  <diagram name="Page-1" id="Z_LQ6z9-4e3ammu03pyi">
+    <mxGraphModel dx="1063" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-1" value="Rentabilité attendue" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#1e40af;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-2" value="Coûts globaux" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#059669;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x-G2EaKpg3Qw2RA5t5O_-1" value="Charges ou ressources humaines" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#1e40af;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x-G2EaKpg3Qw2RA5t5O_-3" value="Durée prévue" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#059669;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

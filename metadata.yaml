@@ -1,0 +1,33 @@
+---
+title: "MAALSI 2022-24 - Projet collaboratif BLOC 2"
+subtitle: "Superviser le portefeuille projets de la DSI et sa mise en œuvre."
+author: ["Grégory BOES", "Julien HUYGHE", "Jean MAZAGOT"]
+date: "07/2023"
+lang: "fr"
+book: false
+titlepage: true
+titlepage-background: "ASSETS/background-cesi.pdf"
+toc: true
+lof: true
+lot: true
+table-use-row-colors: true
+#mainfont: Avenir Next Regular
+#mainfontoptions:
+#  - UprightFont=Avenir Next Regular
+#  - ItalicFont=Avenir Next Italic
+#  - BoldFont=Avenir Next Demi Bold
+#  - BoldItalicFont=Avenir Next Demi Bold Italic
+fontsize: 10.5pt
+#sansfont: Gilroy-SemiBold
+#sansfontoptions:
+#  - UprightFont=Gilroy-SemiBold
+#  - ItalicFont=Gilroy-SemiBoldItalic
+#  - BoldFont=Gilroy-SemiBold
+#  - BoldItalicFont=Gilroy-SemiBoldItalic
+#monofont: Gilroy-SemiBold
+#monofontoptions:
+#  - UprightFont=Gilroy-SemiBold
+#  - ItalicFont=Gilroy-SemiBoldItalic
+#  - BoldFont=Gilroy-SemiBold
+#  - BoldItalicFont=Gilroy-SemiBoldItalic
+...

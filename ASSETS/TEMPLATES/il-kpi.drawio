@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-07-11T19:34:13.959Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="A2H1lfuEZuvtafOmsCs5" version="21.6.2" type="device">
+  <diagram name="Page-1" id="Z_LQ6z9-4e3ammu03pyi">
+    <mxGraphModel dx="1274" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-1" value="Délai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#1e40af;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEgoR7gKJrUoaPnhJkdf-2" value="Coût" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#059669;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEAy2ZbMe_pHx0PSg17h-1" value="Effort" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#1e40af;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="410" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEAy2ZbMe_pHx0PSg17h-2" value="Risque" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;strokeColor=none;fillColor=#059669;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
