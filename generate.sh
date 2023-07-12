@@ -1,5 +1,5 @@
 #!/bin/bash
-TITRE="MAALSI_22-24_Projet_Collaboratif_Bloc_2_BOES_HUYGHE_MAZAGOT";
+TITRE="MAALSI 2022 - Projet Collaboratif Bloc 2 - Groupe 1";
 if [ -f "${TITRE}.pdf" ]; then
     echo "Le fichier existe, remplacement...";
     rm "${TITRE}.pdf";
